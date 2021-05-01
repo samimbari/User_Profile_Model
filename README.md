@@ -11,7 +11,7 @@ This is a basic User profile model made with `Node.JS`, `Express` and `Mongoose(
  * Name of the user
  * Image of the user
  * Contact number of the user (with node built-in validation)
- * ail of the user (with validation)
+ * Email of the user (with validation)
  * Address of the user
 
 `Routes` used
